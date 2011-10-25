@@ -5,8 +5,6 @@ What?
 -----
 
 A small brainfuck interpreter written in python.
-It weights only 295 bytes. It's not very fast.
-But it is small.
 
 How?
 ----
@@ -40,6 +38,7 @@ Who?
 ----
 
 Richard Wossal <richard@r-wos.org> - 26th Sep. 2011
+and some [reddit users](http://redd.it/ksawz)
 
 Free Software?
 --------------
